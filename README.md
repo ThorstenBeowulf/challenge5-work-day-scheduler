@@ -11,6 +11,10 @@ Timeslots are colour-coded according to whether they are before, during or after
 
 ## Deployed Page
 
+Link to the page: https://thorstenbeowulf.github.io/challenge5-work-day-scheduler/
+
+![image](https://github.com/ThorstenBeowulf/challenge5-work-day-scheduler/assets/90459268/b1475231-fff9-4a96-aa66-06fa0455ec5b)
+
 
 ## Copyright and Licence
 
